@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BTC-Converter/static/css/main.f76c0dc5.css",
+    "main.js": "/BTC-Converter/static/js/main.1a455d7b.js",
+    "static/js/787.94daf9f8.chunk.js": "/BTC-Converter/static/js/787.94daf9f8.chunk.js",
+    "index.html": "/BTC-Converter/index.html",
+    "main.f76c0dc5.css.map": "/BTC-Converter/static/css/main.f76c0dc5.css.map",
+    "main.1a455d7b.js.map": "/BTC-Converter/static/js/main.1a455d7b.js.map",
+    "787.94daf9f8.chunk.js.map": "/BTC-Converter/static/js/787.94daf9f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76c0dc5.css",
+    "static/js/main.1a455d7b.js"
+  ]
+}
